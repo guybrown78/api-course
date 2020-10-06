@@ -18,6 +18,34 @@
           "name":"AIS-Training",
           "id":"001"
         },
+        "startDate":"10/11/2020",
+        "prices":{
+          "currency":"GBP",
+          "total":"490",
+          "incVat":false
+        },
+        "availability":{
+          "total":"20",
+          "available":"4"
+        }
+			},
+			{
+        "standardId":"133",
+        "scheduledCourseId":"002",
+        "id":"002",
+        "name":"OPITO Basic H2S Training",
+        "type":{
+          "name":"In Centre",
+          "id":"3411b61d-c38b-46d8-97d7-9d3eaeae61a1",
+          "value":"inCentre"
+        },
+        "location":{
+          "name":"Newcastle"
+        },
+        "supplier":{
+          "name":"AIS-Training",
+          "id":"001"
+        },
         "startDate":"10/12/2020",
         "prices":{
           "currency":"GBP",
@@ -26,6 +54,90 @@
         },
         "availability":{
           "total":"20",
+          "available":"8"
+        }
+			},
+			{
+        "standardId":"133",
+        "scheduledCourseId":"003",
+        "id":"003",
+        "name":"OPITO Basic H2S Training",
+        "type":{
+          "name":"In Centre",
+          "id":"3411b61d-c38b-46d8-97d7-9d3eaeae61a1",
+          "value":"inCentre"
+        },
+        "location":{
+          "name":"North Shields"
+        },
+        "supplier":{
+          "name":"AIS-Training",
+          "id":"001"
+        },
+        "startDate":"18/12/2020",
+        "prices":{
+          "currency":"GBP",
+          "total":"510",
+          "incVat":false
+        },
+        "availability":{
+          "total":"20",
+          "available":"16"
+        }
+			},
+			{
+        "standardId":"133",
+        "scheduledCourseId":"004",
+        "id":"004",
+        "name":"OPITO Basic H2S Training",
+        "type":{
+          "name":"In Centre",
+          "id":"3411b61d-c38b-46d8-97d7-9d3eaeae61a1",
+          "value":"inCentre"
+        },
+        "location":{
+          "name":"Teesside"
+        },
+        "supplier":{
+          "name":"Teesside Industrial Training",
+          "id":"002"
+        },
+        "startDate":"25/11/2020",
+        "prices":{
+          "currency":"GBP",
+          "total":"299",
+          "incVat":false
+        },
+        "availability":{
+          "total":"12",
+          "available":"3"
+        }
+			},
+			{
+        "standardId":"133",
+        "scheduledCourseId":"005",
+        "id":"005",
+        "name":"OPITO Basic H2S Training",
+        "type":{
+          "name":"In Centre",
+          "id":"3411b61d-c38b-46d8-97d7-9d3eaeae61a1",
+          "value":"inCentre"
+        },
+        "location":{
+          "name":"Teesside"
+        },
+        "supplier":{
+          "name":"Teesside Industrial Training",
+          "id":"002"
+        },
+        "startDate":"01/12/2020",
+        "prices":{
+          "currency":"GBP",
+          "total":"299",
+          "incVat":false
+        },
+        "availability":{
+          "total":"12",
           "available":"8"
         }
       }
