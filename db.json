@@ -1,0 +1,34 @@
+{
+  "results":[
+    [
+      {
+        "standardId":"133",
+        "scheduledCourseId":"001",
+        "id":"001",
+        "name":"OPITO Basic H2S Training",
+        "type":{
+          "name":"In Centre",
+          "id":"3411b61d-c38b-46d8-97d7-9d3eaeae61a1",
+          "value":"inCentre"
+        },
+        "location":{
+          "name":"Newcastle"
+        },
+        "supplier":{
+          "name":"AIS-Training",
+          "id":"001"
+        },
+        "startDate":"10/12/2020",
+        "prices":{
+          "currency":"GBP",
+          "total":"490",
+          "incVat":false
+        },
+        "availability":{
+          "total":"20",
+          "available":"8"
+        }
+      }
+    ]
+  ]
+}
