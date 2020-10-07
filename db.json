@@ -18,7 +18,11 @@
           "name":"AIS-Training",
           "id":"001"
         },
-        "startDate":"10/11/2020",
+				"startDate":"10/11/2020",
+				"duration":{
+					"days":4,
+					"hours":null
+				},
         "prices":{
           "currency":"GBP",
           "total":"490",
@@ -46,7 +50,11 @@
           "name":"AIS-Training",
           "id":"001"
         },
-        "startDate":"10/12/2020",
+				"startDate":"10/12/2020",
+				"duration":{
+					"days":4,
+					"hours":null
+				},
         "prices":{
           "currency":"GBP",
           "total":"490",
@@ -74,7 +82,11 @@
           "name":"AIS-Training",
           "id":"001"
         },
-        "startDate":"18/12/2020",
+				"startDate":"18/12/2020",
+				"duration":{
+					"days":4,
+					"hours":null
+				},
         "prices":{
           "currency":"GBP",
           "total":"510",
@@ -102,7 +114,11 @@
           "name":"Teesside Industrial Training",
           "id":"002"
         },
-        "startDate":"25/11/2020",
+				"startDate":"25/11/2020",
+				"duration":{
+					"days":4,
+					"hours":null
+				},
         "prices":{
           "currency":"GBP",
           "total":"299",
@@ -130,7 +146,11 @@
           "name":"Teesside Industrial Training",
           "id":"002"
         },
-        "startDate":"01/12/2020",
+				"startDate":"01/12/2020",
+				"duration":{
+					"days":4,
+					"hours":null
+				},
         "prices":{
           "currency":"GBP",
           "total":"299",
