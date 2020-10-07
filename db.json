@@ -1,6 +1,5 @@
 {
   "results":[
-    [
       {
         "standardId":"133",
         "scheduledCourseId":"001",
@@ -161,6 +160,5 @@
           "available":"8"
         }
       }
-    ]
   ]
 }
