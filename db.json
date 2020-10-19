@@ -159,6 +159,38 @@
           "total":"12",
           "available":"8"
         }
+			},
+			{
+        "standardId":"133",
+        "scheduledCourseId":"006",
+        "id":"006",
+        "name":"OPITO Basic H2S Training",
+        "type":{
+          "name":"In Centre",
+          "id":"3411b61d-c38b-46d8-97d7-9d3eaeae61a1",
+          "value":"inCentre"
+        },
+        "location":{
+          "name":"Teesside"
+        },
+        "supplier":{
+          "name":"Teesside Industrial Training",
+          "id":"002"
+        },
+				"startDate":"01/02/2021",
+				"duration":{
+					"days":4,
+					"hours":null
+				},
+        "prices":{
+          "currency":"GBP",
+          "total":"299",
+          "incVat":false
+        },
+        "availability":{
+          "total":"12",
+          "available":"1"
+        }
       }
   ]
 }
